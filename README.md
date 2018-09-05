@@ -1,5 +1,5 @@
 # CS231n Assignment Solutions
-Assignments solutions for [CS231n: Convolutional Neural Networks for Visual Recognition](cs231n.stanford.edu) course.
+My solutions to assignments of [CS231n: Convolutional Neural Networks for Visual Recognition](cs231n.stanford.edu) course.
 
 Thanks to people at stanford for making all the course resources available online. There are lot of repos already with the solutions but very few are there with PyTorch 0.4 and I hope this will be helpful. I have filled in the inline questions at all places to the best of my knowledge. If there are any mistakes anywhere please let me know, thanks. 
 
